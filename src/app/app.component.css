@@ -1,0 +1,20 @@
+p {
+  font-family: Lato;
+}
+
+.text-container {
+  background-color: aqua;
+  border: 2px solid red;
+  font-size: auto;
+  overflow: hidden;
+  height: 100px;
+  width: 200px;
+}
+
+textarea {
+  resize: auto;
+  font-size: auto;
+  height: 100px;
+  width: 100px;
+  white-space: pre-wrap;
+}
